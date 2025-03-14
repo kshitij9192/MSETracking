@@ -28,6 +28,7 @@
 
 All these dimensions are inter-related and affect each other.
 
+![Software Architecture Dimensions](images/dimensions_of_sa.JPG)
 
 # Design vs Architecture
 
